@@ -16,7 +16,10 @@ color: white !important;
 
 }
 
-
+.btn
+{
+    cursor: pointer;
+}
 
 #bg
 {
